@@ -1,5 +1,5 @@
 # Lighter
-<img align="right" src="https://github.com/arrdem/lighter/raw/master/etc/ligher.jpg" width=300/>
+<img align="right" src="https://github.com/arrdem/lighter/raw/master/etc/lighter.jpg" width=300/>
 
 **TL;DR** Code analysis based highlighting for Clojure.
 
